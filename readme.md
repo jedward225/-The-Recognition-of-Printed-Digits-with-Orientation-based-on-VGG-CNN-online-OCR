@@ -662,4 +662,4 @@ def apply_rotation_correction(image):
 [1] Baluja, Shumeet. "Making Templates Rotationally Invariant. An Application to Rotated Digit Recognition." *Advances in Neural Information Processing Systems* 11 (1998).
 
 [2] [在线文章] Correcting Image Orientation Using Convolutional Neural Networks - A hands-on introduction to deep learning applications. *Posted by Daniel Saez on January 12, 2017* https://d4nst.github.io/2017/01/12/image-orientation/
->>>>>>> 81c37fa34b06a5f06fc0dd78f7c45157432b6766
+
